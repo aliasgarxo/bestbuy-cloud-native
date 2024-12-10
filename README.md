@@ -27,7 +27,9 @@ As a Full-Stack Cloud-Native Developer at Best Buy, I have been tasked with deve
 ---
 
 ### Architecture Diagram
-*(Include an updated architecture diagram created using Draw.io here.)*
+
+![Blank diagram (12)](https://github.com/user-attachments/assets/df42fb47-19d2-46a5-987b-90bdf5792096)
+
 
 ---
 
@@ -78,18 +80,18 @@ As a Full-Stack Cloud-Native Developer at Best Buy, I have been tasked with deve
 ### Microservice Repositories
 | Service          | Repository Link                                    |
 |-------------------|---------------------------------------------------|
-| **Store-Front**   | [BestBuy-App Repo](https://github.com/aliasgarxo/BestBuy-App)                 |
-| **Store-Admin**   | [BestBuy-Employee Repo](https://github.com/aliasgarxo/BestBuy-Employee)                 |
+| **BestBuy-App**   | [BestBuy-App Repo](https://github.com/aliasgarxo/BestBuy-App)                 |
+| **BestBuy-Employee**   | [BestBuy-Employee Repo](https://github.com/aliasgarxo/BestBuy-Employee)                 |
 | **Order-Service** | [Order-Service Repo](https://github.com/aliasgarxo/order-service-bb)               |
 | **Product-Service** | [Product-Service Repo](https://github.com/aliasgarxo/product-service-bb)           |
-| **Makeline-Service** | [Makeline-Service Repo](https://github.com/aliasgarxo/makeline-service-bb))         |
+| **Makeline-Service** | [Makeline-Service Repo](https://github.com/aliasgarxo/makeline-service-bb)         |
 | **AI-Service**    | [AI-Service Repo](https://github.com/aliasgarxo/ai-service-bb)|
 
 ### Docker Images
 | Service          | Docker Image Link                                 |
 |-------------------|--------------------------------------------------|
-| **Store-Front**   | [BestBuy-App Docker Image](https://hub.docker.com/repository/docker/dellhoak/bestbuy-app/general)    |
-| **Store-Admin**   | [BestBuy-Employee Docker Image](https://hub.docker.com/repository/docker/dellhoak/bestbuy-employee/general)    |
+| **BestBuy-App**   | [BestBuy-App Docker Image](https://hub.docker.com/repository/docker/dellhoak/bestbuy-app/general)    |
+| **BestBuy-Employee**   | [BestBuy-Employee Docker Image](https://hub.docker.com/repository/docker/dellhoak/bestbuy-employee/general)    |
 | **Order-Service** | [Order-Service Docker Image](https://hub.docker.com/repository/docker/dellhoak/order-service-bb/general)  |
 | **Product-Service** | [Product-Service Docker Image](https://hub.docker.com/repository/docker/dellhoak/product-service-bb/general) |
 | **Makeline-Service** | [Makeline-Service Docker Image](https://hub.docker.com/repository/docker/dellhoak/makeline-bb/general) |
