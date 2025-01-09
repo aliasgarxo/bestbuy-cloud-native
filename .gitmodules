@@ -1,0 +1,18 @@
+[submodule "BestBuy-FrontEnd"]
+	path = BestBuy-FrontEnd
+	url = https://github.com/aliasgarxo/bestbuy-app
+[submodule "BestBuy-EmployeePortal"]
+	path = BestBuy-EmployeePortal
+	url = https://github.com/aliasgarxo/bestbuy-employee
+[submodule "BestBuy-OrderService"]
+	path = BestBuy-OrderService
+	url = https://github.com/aliasgarxo/order-service-bb
+[submodule "BestBuy-ProductService"]
+	path = BestBuy-ProductService
+	url = https://github.com/aliasgarxo/product-service-bb
+[submodule "BestBuy-MakelineService"]
+	path = BestBuy-MakelineService
+	url = https://github.com/aliasgarxo/makeline-service-bb
+[submodule "BestBuy-AI_Service"]
+	path = BestBuy-AI_Service
+	url = https://github.com/aliasgarxo/ai-service-bb
